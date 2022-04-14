@@ -12,3 +12,4 @@ This is a boilerplate for express api with prisma as orm and with api login, reg
  ---
 ### To Run the App run
  `npm start`
+ ---
