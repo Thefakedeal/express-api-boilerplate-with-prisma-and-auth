@@ -11,4 +11,4 @@ This is a boilerplate for express api with prisma as orm and with api login, reg
  `npm run dev`
  ---
 ### To Run the App run
-  `npm start`
+ `npm start`
